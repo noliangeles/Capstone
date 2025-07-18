@@ -36,6 +36,8 @@ Each model was evaluated using:
 ## 🔗 View Report
 https://github.com/noliangeles/Capstone/blob/main/index.pdf
 
+[🔗 View Tableau Dashboard on Tableau Public](https://public.tableau.com/app/profile/noli.angeles/viz/Customer_Churn_Analysis_17528723047010/Dashboard1#1)
+
 ## 📁 Future Improvements
 - Deploy model with a dashboard or API
 - Test ensemble methods (Random Forest, XGBoost)
